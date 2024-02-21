@@ -15,7 +15,7 @@ import { useLocalStorageState } from "./hooks/useLocalStorageState";
 
 // import { useState } from "react";
 
-const KEY = "f84fc31d";
+const KEY = "e2326186";
 
 export default function App() {
   const [query, setQuery] = useState("");
